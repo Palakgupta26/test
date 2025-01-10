@@ -30,5 +30,6 @@ function calculate() {
     }
 
     resultDiv.textContent = `Result: ${result}`;
+    
   }
 ``
